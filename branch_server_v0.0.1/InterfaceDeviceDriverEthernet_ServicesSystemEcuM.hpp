@@ -1,0 +1,4 @@
+#pragma once
+
+#include "InterfaceClientServicesSystemEcuM.hpp"
+extern InterfaceClientServicesSystemEcuM* InterfaceClientServicesSystemEcuM_ptrDeviceDriverEthernet;
