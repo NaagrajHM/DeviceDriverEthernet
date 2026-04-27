@@ -1,0 +1,4 @@
+#pragma once
+
+#include "InterfaceClientServicesSystemSchM.hpp"
+extern InterfaceClientServicesSystemSchM* InterfaceClientServicesSystemSchM_ptrDeviceDriverEthernet;
